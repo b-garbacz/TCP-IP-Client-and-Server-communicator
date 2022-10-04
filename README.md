@@ -10,7 +10,7 @@ Then the client, before connecting to the server, will ask you to enter the corr
 username by calling a validation function(Regex).<br />
 
 
-After entering a username, e.g. Bartek, as a customer you will receive chat history,
+After entering a username, e.g. Bartek, as a client you will receive chat history,
 information about joining the communicator and a list of currently connected users.
 The result below:<br />
 ![image](https://user-images.githubusercontent.com/45511879/193561176-91e5c80c-11d2-4353-9e50-0f817ef78ff9.png)
